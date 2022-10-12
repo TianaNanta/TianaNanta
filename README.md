@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [YuDownloader](https://github.com/TianaNanta/YuDownloader.git)
 
-- 🌱 I’m currently learning **php, symfony and python**
+- 🌱 I’m currently learning **PHP, Symfony and Python**
 
 - 📫 How to reach me **andrianjakananta@gmail.com**
 
