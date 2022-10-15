@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ANDRIANJAKA Nantenaina</h1>
+<h1 align="center">Hi 👋, I'm ANDRIANJAKA FENOSOA Tiana Nantenaina</h1>
 <h3 align="center">A student in System and Network Administration at ENI Fianarantsoa</h3>
 
 - 🔭 I’m currently working on [YuDownloader](https://github.com/TianaNanta/YuDownloader.git)
@@ -35,6 +35,8 @@
 <h3 align="left">Tools</h3>
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 <h3 align="left">Databases</h3>
@@ -45,6 +47,6 @@
 
 ## My stats
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=TianaNanta&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=TianaNanta&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" /></p>
 
 ![TianaNanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=TianaNanta&show_icons=true&theme=dracula&hide_border=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TianaNanta&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
