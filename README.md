@@ -45,10 +45,8 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=TianaNanta&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" /></p>
 
-<p align="center">
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=TianaNanta&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" alt="TianaNanta's Github stats" /></p>
 
 ![TianaNanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=TianaNanta&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TianaNanta&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</p>
