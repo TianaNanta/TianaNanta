@@ -23,6 +23,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TianaNanta&layout=compact&theme=dracula&hide_border=true" alt="Top langs" /></p>
+
 <h3 align="left">Framework and Libraries</h3>
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
@@ -45,8 +47,4 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=TianaNanta&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=TianaNanta&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" alt="TianaNanta's Github stats" /></p>
-
-![TianaNanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=TianaNanta&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TianaNanta&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=TianaNanta&show_icons=true&theme=dracula&hide_border=true" alt="TianaNanta's Github stats" /></p>
