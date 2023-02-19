@@ -43,19 +43,12 @@
 
 ## My stats
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=TianaNanta&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=TianaNanta&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" /></p>
 
-<a href="https://github.com/TianaNanta/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TianaNanta&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/TianaNanta/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TianaNanta&repo=convoychat" />
-</a>
+<p align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=TianaNanta&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000" />
+![TianaNanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=TianaNanta&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TianaNanta&layout=compact&theme=transparent&hide_border=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TianaNanta&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![TianaNanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=TianaNanta&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TianaNanta&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+</p>
