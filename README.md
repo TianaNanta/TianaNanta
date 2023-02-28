@@ -16,13 +16,13 @@
 <a href="https://instagram.com/nanta.tiana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nanta.tiana" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Programming languages:</h3>
-<p>
+<details>
+    <summary><b>👨‍💻 Programming languages</b></summary><br/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+</details>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TianaNanta&layout=compact&theme=dracula&hide_border=true" alt="Top langs" /></p>
 
