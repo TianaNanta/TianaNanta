@@ -16,6 +16,8 @@
 <a href="https://instagram.com/nanta.tiana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nanta.tiana" height="30" width="40" /></a>
 </p>
 
+<br/>
+
 <details>
     <summary><b>👨‍💻 Programming languages</b></summary><br/>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -27,23 +29,29 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TianaNanta&layout=compact&theme=dracula&hide_border=true" alt="Top langs" /></p>
 </details>
 
-<h3 align="left">Framework and Libraries</h3>
+<details>
+  <summary><b>🔧 Frameworks</b></summary><br/>
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
+</details>
 
-<h3 align="left">Tools</h3>
+<details>
+  <summary><b>🛠 Tools</b></summary><br/>
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
+</details>
 
-<h3 align="left">Databases</h3>
+<details>
+  <summary><b>📊 Databases</b></summary><br/>
 <p>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
+</details>
 
 ## Stats
 
