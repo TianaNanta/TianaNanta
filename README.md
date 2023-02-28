@@ -31,9 +31,8 @@
 
 <details>
   <summary><b>🔧 Frameworks</b></summary><br/>
-<p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-</p>
+  <a href="https://fastapi.tianjolo.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a>
+  <a href="https://laravel.com/docs/10.x" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon//master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> </a>
 </details>
 
 <details>
