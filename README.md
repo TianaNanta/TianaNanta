@@ -6,51 +6,47 @@
 
 - 🌱 I’m currently learning **PHP, Go and Python**
 
-- 📫 How to reach me **andrianjakananta@gmail.com**
+- 📫 How to reach me **<andrianjakananta@gmail.com>**
 
 - ⚡ Fun fact **I like playing video games and watching for movies**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://fb.com/nantenaina.andrianjaka.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nantenaina.andrianjaka.1" height="30" width="40" /></a>
 <a href="https://instagram.com/nanta.tiana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nanta.tiana" height="30" width="40" /></a>
 </p>
 
 <br/>
 
-<details>
-    <summary><b>👨‍💻 Programming languages</b></summary><br/>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/> </a>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TianaNanta&layout=compact&theme=dracula&hide_border=true" alt="Top langs" /></p>
-</details>
-
-<details>
-  <summary><b>🔧 Frameworks</b></summary><br/>
-  <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a>
-  <a href="https://laravel.com/docs/10.x" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon//master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> </a>
-</details>
-
-<details>
-  <summary><b>🛠 Tools</b></summary><br/>
-<p>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<h4 align="center">👨‍💻 Programming languages</h4><br/>
+    <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,php,py,go" />
+  </a>
 </p>
-</details>
 
-<details>
-  <summary><b>📊 Databases</b></summary><br/>
-<p>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TianaNanta&layout=compact&theme=dracula&hide_border=true" alt="Top langs" /></p>
+
+<h4 align="center">🔧 Frameworks</h4><br/>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,laravel" />
+  </a>
 </p>
-</details>
+
+<h4 align="center">🛠 Tools</h4><br/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,docker,linux" />
+  </a>
+</p>
+
+<h4 align="center">📊 Databases</h4><br/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres" />
+  </a>
+</p>
 
 ## Stats
 
